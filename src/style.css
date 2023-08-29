@@ -1,0 +1,58 @@
+body {
+
+}
+
+h1, h2 {
+  font-size: 25px;
+  color: #black;
+  font-family: impact;
+  text-align: center;
+}
+
+#ella {
+  margin-top: 70px;
+  color: black;
+  font-family: impact;
+  letter-spacing: 10px;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+#jrsoftware {
+font-size: 14px;
+  color: #A8A8A8;
+  font-family: sans-serif;
+  text-align: center;
+  margin-bottom: 70px;
+
+}
+
+a:hover {
+  color: #A8A8A8;
+}
+
+nav ul {
+  font-family: impact;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 100px;
+
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none; /* Removing underlines */
+  color: black; /* Changing the link color to black */
+}
+
+#picofme {
+  height: 400px;
+  width: 300px;
+}
