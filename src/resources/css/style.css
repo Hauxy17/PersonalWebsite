@@ -5,15 +5,17 @@ body {
 h1, h2 {
   font-size: 25px;
   color: #black;
-  font-family: impact;
+  font-family: courier;
+  font-weight: 25px;
   text-align: center;
+  margin-bottom: 50px;
 }
 
 #ella {
   margin-top: 70px;
   color: black;
   font-family: impact;
-  letter-spacing: 10px;
+  letter-spacing: 11px;
   text-align: center;
   font-size: 50px;
   margin-bottom: 10px;
@@ -24,7 +26,8 @@ font-size: 14px;
   color: #A8A8A8;
   font-family: sans-serif;
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
+  letter-spacing: 8px;
 
 }
 
@@ -33,7 +36,7 @@ a:hover {
 }
 
 nav ul {
-  font-family: impact;
+  font-family: courier;
   list-style-type: none;
   padding: 0;
   text-align: center;
@@ -76,4 +79,18 @@ margin-top: 35px;
 text-align: center;
 font-family: impact;
 font-size: 20px;
+}
+
+.logo-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.logos-container, img {
+    width: 100px;
+    height: auto;
+    margin-right: 30px;
+    justify-content: center;
 }

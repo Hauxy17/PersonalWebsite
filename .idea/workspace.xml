@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5e2ee1-64d8-46d7-b5ea-18bae899d73b" name="Changes" comment="Too late but here goes init commit">
-      <change afterPath="$PROJECT_DIR$/src/resources/images/linkedIn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/CSS2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/CSS22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/mysql.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/aboutMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contactInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/contactInfo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +43,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ellac/IdeaProjects/PersonalWebsite/src/resources/images",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ellac/IdeaProjects/PersonalWebsite/src/resources/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ellac\IdeaProjects\PersonalWebsite\src\resources\images" />
@@ -78,11 +83,19 @@
       <option name="project" value="LOCAL" />
       <updated>1693306901630</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created the contact">
+      <created>1693324832353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693324832353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Too late but here goes init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Too late but here goes init commit" />
+    <MESSAGE value="Created the contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the contact" />
   </component>
 </project>
