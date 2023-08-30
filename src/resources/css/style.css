@@ -61,12 +61,12 @@ nav ul li a {
 }
 
 #linkedIn {
-  height: 35px;
-  width: 150px;
+  height: 25px;
+  width: 100px;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  margin-top: 100px;
+  margin-bottom: 10px;
 
 }
 
@@ -75,10 +75,10 @@ nav ul li a {
 }
 
 #mailAndPhone {
-margin-top: 35px;
+margin-bottom: 35px;
 text-align: center;
-font-family: impact;
-font-size: 20px;
+font-family: sans;
+font-size: 10px;
 }
 
 .logo-container {
@@ -93,4 +93,22 @@ font-size: 20px;
     height: auto;
     margin-right: 30px;
     justify-content: center;
+    margin-top: 70px;
+}
+
+#bio-container{
+    display: flex;
+}
+
+ #left {
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 250px;
+}
+
+#right {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 250px;
 }

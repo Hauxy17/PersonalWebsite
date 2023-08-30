@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f5e2ee1-64d8-46d7-b5ea-18bae899d73b" name="Changes" comment="Too late but here goes init commit">
-      <change afterPath="$PROJECT_DIR$/src/resources/images/CSS2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/CSS22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/javascript.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/images/mysql.png" afterDir="false" />
+    <list default="true" id="2f5e2ee1-64d8-46d7-b5ea-18bae899d73b" name="Changes" comment="Created the contact">
+      <change afterPath="$PROJECT_DIR$/src/resources/images/mig.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/aboutMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/experience.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recommendationsAndCertifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/recommendationsAndCertifications.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills.html" afterDir="false" />
     </list>
