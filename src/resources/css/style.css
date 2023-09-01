@@ -67,6 +67,7 @@ nav ul li a {
   margin-right: auto;
   display: block;
   margin-bottom: 10px;
+  margin-top: 200px;
 
 }
 
@@ -129,7 +130,8 @@ hr.rounded {
 #resume-container {
     display: flex;
     align-items: center;
-        justify-content: center;
+    justify-content: center;
+
 
 }
 #resume {
@@ -140,4 +142,39 @@ hr.rounded {
     margin-top: 10px;
 
 
+}
+
+#cert-container {
+    display: flex;
+    justify-content: center;
+    }
+
+#cert-right {
+text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+#cert-left {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#brights {
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 450px;
+    margin-right: 50px;
+}
+
+
+#udemy {
+    align-items: center;
+        justify-content: center;
+        height: 300px;
+        width: 450px;
+        margin-left: 50px;
 }
