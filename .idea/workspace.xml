@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f5e2ee1-64d8-46d7-b5ea-18bae899d73b" name="Changes" comment="Created the contact">
-      <change afterPath="$PROJECT_DIR$/src/resources/images/mig.png" afterDir="false" />
+    <list default="true" id="2f5e2ee1-64d8-46d7-b5ea-18bae899d73b" name="Changes" comment="Added contaxt info to all pages, added CSS to the about me section">
+      <change afterPath="$PROJECT_DIR$/src/resources/images/CV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/RESUME.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/aboutMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/experience.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contactInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/contactInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/recommendationsAndCertifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/recommendationsAndCertifications.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills.html" afterDir="false" />
@@ -86,12 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693324832353</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added contaxt info to all pages, added CSS to the about me section">
+      <created>1693389867240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693389867240</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Too late but here goes init commit" />
     <MESSAGE value="Created the contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the contact" />
+    <MESSAGE value="Added contaxt info to all pages, added CSS to the about me section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added contaxt info to all pages, added CSS to the about me section" />
   </component>
 </project>
